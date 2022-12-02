@@ -3,7 +3,7 @@ import { Navbar } from "./components/Navbar";
 import { MoviesProvider } from "./contexts/MoviesContext";
 import { UserProvider } from "./contexts/UserContext";
 
-function App() {
+export function App() {
 
   return (
     <>
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default App

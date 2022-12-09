@@ -1,7 +1,7 @@
 import {CounterApp} from './components/CounterApp'
 
 
-function App() {
+function AppState() {
 
   return (
     <>
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppState
